@@ -1,12 +1,5 @@
 title: Avinash B
-description: Hi, I'm Avinash, a data engineer with nearly 9 years of experience specializing in Big Data technologies, Python, machine learning, and cloud-native solutions. Throughout my career, I’ve worked on several exciting projects, including:
-
-Automatic Ticket Classification: Leveraging NLP for topic modeling and text classification.
-Melanoma Cancer Detection: Building custom CNN models to detect melanoma from skin images.
-Gesture Recognition for Smart TVs: Developing real-time hand gesture recognition using machine learning.
-HelpMate AI: Implementing a Generative AI system using semantic search and vector embeddings.
-Telecom Churn Prediction: Using historical customer data to predict churn and retain clients.
-This website serves as a portfolio of my work, where I share my latest projects, articles, and tutorials on topics ranging from big data and AI to software development and cloud engineering. Feel free to explore, and if you’d like to collaborate, don’t hesitate to reach out!
+description: This website serves as a portfolio of my work, where I share my latest projects, articles, and tutorials on topics ranging from big data and AI to software development and cloud engineering. Feel free to explore, and if you’d like to collaborate, don’t hesitate to reach out!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
