@@ -3,7 +3,7 @@ layout: default
 title: Avinash's Portfolio
 ---
 
-# Avinash's Project Portfolio
+# Project Portfolio
 
 Welcome to my project portfolio! Below are some of the key projects I have worked on, each with detailed descriptions, problem statements, and links to the corresponding GitHub repositories. Feel free to explore!
 
