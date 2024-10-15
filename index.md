@@ -1,123 +1,104 @@
 ---
 layout: default
+title: Avinash's Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Avinash's Project Portfolio
 
-[Link to another page](./another-page.html).
+Welcome to my project portfolio! Below are some of the key projects I have worked on, each with detailed descriptions, problem statements, and links to the corresponding GitHub repositories. Feel free to explore!
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Project 1: Automatic Ticket Classification
 
-# Header 1
+**Problem Statement:**  
+The goal of this project is to automate the classification of customer complaints for a financial company using unstructured text data from customer support tickets. The objective is to categorize complaints into five categories: Credit card/Prepaid card, Bank account services, Theft/Dispute reporting, Mortgages/loans, and Others. This will help train supervised models to classify future complaints into relevant departments, improving response times and customer satisfaction.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Technologies/Libraries Used:**  
+Python Pandas, NumPy, Matplotlib, Seaborn, Plotly, sklearn, XGBoost
 
-## Header 2
+**Models:**  
+Logistic Regression, Decision Tree, Random Forest, Multinomial Naive Bayes, XGBoost Classifier
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[View Code](https://github.com/avinashb7/AutomaticTicketClassification/blob/main/Automatic_Ticket_Classification_Assignment.ipynb)
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Project 2: Melanoma Cancer Detection
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Problem Statement:**  
+The goal of this project is to develop a custom convolutional neural network (CNN) model using TensorFlow to accurately detect melanoma from skin images. Melanoma accounts for 75% of skin cancer deaths, so an effective solution can aid dermatologists in diagnosing this deadly disease. The model classifies images of various skin conditions to support early detection and improve patient outcomes.
 
-#### Header 4
+**Technologies/Libraries Used:**  
+Python Pandas, NumPy, Tensorflow, Keras
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Models:**  
+CNN - Sequential model, Used Augmentor
 
-##### Header 5
+[View Code](https://github.com/avinashb7/MelonomaCancerAssignment/blob/main/melonoma_cancer.ipynb)  
+[View Project](https://github.com/avinashb7/MelonomaCancerAssignment/tree/main)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
+## Project 3: Gesture Recognition for Smart TVs
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Problem Statement:**  
+This project aims to develop a gesture recognition feature for smart TVs, enabling users to control the TV without a remote by recognizing specific hand gestures using the built-in webcam. The system processes input frames and uses a machine learning model to interpret gestures in real time, allowing for actions like volume control, playback pause, and more.
 
-### There's a horizontal rule below this.
+**Technologies/Libraries Used:**  
+Python Pandas, NumPy, Matplotlib, Keras, Imageio
 
-* * *
+**Models:**  
+Conv3D, CNN-LSTM Model, Transfer Learning
 
-### Here is an unordered list:
+[View Code](https://github.com/avinashb7/Gesture-Recognition/blob/main/Gesture%20Recognition%20Project%20Upgrad.ipynb)  
+[View Project](https://github.com/avinashb7/Gesture-Recognition)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+## Project 4: HelpMate AI (Generative AI)
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Problem Statement:**  
+The goal of this project is to build a semantic search system using the RAG (Retrieval-Augmented Generation) pipeline for efficient document retrieval from PDFs. The system extracts relevant information from PDFs, structures it, and generates coherent answers based on user queries. This project involves PDF chunking, semantic search, and re-ranking with a caching layer to enhance performance.
 
-### And a nested list:
+**Technologies/Libraries Used:**  
+pdfplumber, chromaDB, Pandas, OpenAI, pathlib
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+**Steps:**  
+PDF Chunking, Generating and Storing embeddings using OpenAI and CromaDB, Semantic Search with Cache, Re-Ranking with Cross Encoder, RAG
 
-### Small image
+[View Code](https://github.com/avinashb7/HelpMate_GenAI/blob/main/Generative_Search_with_SentenceTransformers_and_Chroma.ipynb)  
+[View Project](https://github.com/avinashb7/HelpMate_GenAI/tree/main)
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+## Project 5: Telecom Churn Case Study
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Problem Statement:**  
+This project aims to predict customer churn for a telecom company using customer-level data from the past four months. The goal is to identify high-risk customers and enable the company to take corrective actions to retain valuable clients, improving business outcomes.
 
+**Technologies/Libraries Used:**  
+Python Pandas, NumPy, Missingno, XGBoost, sklearn, lightgbm, seaborn, matplotlib
 
-### Definition lists can be used with HTML syntax.
+**Models:**  
+Logistic Regression, Decision Tree, Random Forest Classifier, Gradient Boosting, SVC, LightGBM
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[View Code](https://github.com/avinashb7/TelecomChurnCaseStudy/blob/main/Telecom_churn_case_study.ipynb)  
+[View Project](https://github.com/avinashb7/TelecomChurnCaseStudy)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+## Project 6: Lending Club Case Study
+
+**Problem Statement:**  
+This project focuses on identifying patterns that predict if a person is likely to default on a loan. These insights can be used to make decisions such as denying the loan, reducing the loan amount, or lending to risky applicants at a higher interest rate.
+
+**Technologies/Libraries Used:**  
+Python Pandas, Seaborn, Matplotlib
+
+[View Code](https://github.com/avinashb7/Lending_Club_CaseStudy/blob/main/Lending_club_case_study.ipynb)  
+[View Project](https://github.com/avinashb7/Lending_Club_CaseStudy/tree/main)
+
+---
+
+Feel free to explore my GitHub repositories and see the code in action!
