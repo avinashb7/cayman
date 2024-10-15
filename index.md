@@ -20,7 +20,7 @@ Python Pandas, NumPy, Matplotlib, Seaborn, Plotly, sklearn, XGBoost
 **Models:**  
 Logistic Regression, Decision Tree, Random Forest, Multinomial Naive Bayes, XGBoost Classifier
 
-[View Code](https://github.com/avinashb7/AutomaticTicketClassification/blob/main/Automatic_Ticket_Classification_Assignment.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/AutomaticTicketClassification/blob/main/Automatic_Ticket_Classification_Assignment.ipynb)
 
 ---
 
@@ -35,8 +35,8 @@ Python Pandas, NumPy, Tensorflow, Keras
 **Models:**  
 CNN - Sequential model, Used Augmentor
 
-[View Code](https://github.com/avinashb7/MelonomaCancerAssignment/blob/main/melonoma_cancer.ipynb)  
-[View Project](https://github.com/avinashb7/MelonomaCancerAssignment/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/MelonomaCancerAssignment/blob/main/melonoma_cancer.ipynb)  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/MelonomaCancerAssignment/tree/main)
 
 ---
 
@@ -51,8 +51,8 @@ Python Pandas, NumPy, Matplotlib, Keras, Imageio
 **Models:**  
 Conv3D, CNN-LSTM Model, Transfer Learning
 
-[View Code](https://github.com/avinashb7/Gesture-Recognition/blob/main/Gesture%20Recognition%20Project%20Upgrad.ipynb)  
-[View Project](https://github.com/avinashb7/Gesture-Recognition)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/Gesture-Recognition/blob/main/Gesture%20Recognition%20Project%20Upgrad.ipynb)  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/Gesture-Recognition)
 
 ---
 
@@ -67,8 +67,8 @@ pdfplumber, chromaDB, Pandas, OpenAI, pathlib
 **Steps:**  
 PDF Chunking, Generating and Storing embeddings using OpenAI and CromaDB, Semantic Search with Cache, Re-Ranking with Cross Encoder, RAG
 
-[View Code](https://github.com/avinashb7/HelpMate_GenAI/blob/main/Generative_Search_with_SentenceTransformers_and_Chroma.ipynb)  
-[View Project](https://github.com/avinashb7/HelpMate_GenAI/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/HelpMate_GenAI/blob/main/Generative_Search_with_SentenceTransformers_and_Chroma.ipynb)  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/HelpMate_GenAI/tree/main)
 
 ---
 
@@ -83,8 +83,8 @@ Python Pandas, NumPy, Missingno, XGBoost, sklearn, lightgbm, seaborn, matplotlib
 **Models:**  
 Logistic Regression, Decision Tree, Random Forest Classifier, Gradient Boosting, SVC, LightGBM
 
-[View Code](https://github.com/avinashb7/TelecomChurnCaseStudy/blob/main/Telecom_churn_case_study.ipynb)  
-[View Project](https://github.com/avinashb7/TelecomChurnCaseStudy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/TelecomChurnCaseStudy/blob/main/Telecom_churn_case_study.ipynb)  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/TelecomChurnCaseStudy)
 
 ---
 
@@ -96,8 +96,8 @@ This project focuses on identifying patterns that predict if a person is likely 
 **Technologies/Libraries Used:**  
 Python Pandas, Seaborn, Matplotlib
 
-[View Code](https://github.com/avinashb7/Lending_Club_CaseStudy/blob/main/Lending_club_case_study.ipynb)  
-[View Project](https://github.com/avinashb7/Lending_Club_CaseStudy/tree/main)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/Lending_Club_CaseStudy/blob/main/Lending_club_case_study.ipynb)  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/avinashb7/Lending_Club_CaseStudy/tree/main)
 
 ---
 
