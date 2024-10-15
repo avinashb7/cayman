@@ -1,5 +1,5 @@
 title: Avinash B
 description: This website serves as a portfolio of my work, where I share my latest projects, articles, and tutorials on topics ranging from big data and AI to software development and cloud engineering. Feel free to explore, and if you’d like to collaborate, don’t hesitate to reach out!
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
